@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Oct 30 14:20:18 CST 2017
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=F\:\\ImportData\\DBUtils.jar
+manifest.mergeall=true
+manifest.mainclass=com.llrpg.common.util.Test
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
